@@ -1,0 +1,9 @@
+# ninja log v5
+6	462	7515841166970122	CMakeFiles/queue-template-cpp.dir/queue-template-cpp.cpp.obj	2be2bbd4b9b72dc8
+22	488	7515841553261283	CMakeFiles/queue-template-cpp.dir/queue-template-cpp.cpp.obj	2be2bbd4b9b72dc8
+26	1239	7515844006282434	CMakeFiles/queue-template-cpp.dir/queue-template-cpp.cpp.obj	2be2bbd4b9b72dc8
+1240	1736	7515844010986406	queue-template-cpp.exe	dd3619785b966e6e
+25	1312	7515844099993363	CMakeFiles/queue-template-cpp.dir/queue-template-cpp.cpp.obj	2be2bbd4b9b72dc8
+1313	1527	7515844101697272	queue-template-cpp.exe	dd3619785b966e6e
+22	1117	7515844548114760	CMakeFiles/queue-template-cpp.dir/queue-template-cpp.cpp.obj	2be2bbd4b9b72dc8
+1118	1361	7515844550063905	queue-template-cpp.exe	dd3619785b966e6e

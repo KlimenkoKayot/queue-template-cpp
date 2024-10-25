@@ -1,0 +1,3 @@
+C:/code/queue-template-cpp/out/build/x64-debug/CMakeFiles/queue-template-cpp.dir
+C:/code/queue-template-cpp/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/code/queue-template-cpp/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
